@@ -7,5 +7,3 @@
 function sum(m, n) {
   return m + n;
 }
-let i = 0;
-alert(i++)
